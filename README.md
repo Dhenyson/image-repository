@@ -1,2 +1,2 @@
 # image-repository
-Image repository for readmes from public repositories.
+Image repository for readmes from public repositories..
